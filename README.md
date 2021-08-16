@@ -120,7 +120,7 @@ Datawrangling :
 
 
 
-## Contributing Team Member:
+## Contributing Team Members:
 
 |Name     |  Email   | 
 |---------|-----------------|
